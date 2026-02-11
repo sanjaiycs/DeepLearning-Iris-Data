@@ -4,4 +4,4 @@ it is a simple DL(feedforward neural network) model used to classify and identif
 
 # Screenshots
 
-![image alt](img1.png)
+![image alt](https://github.com/sanjaiycs/DeepLearning-Iris-Data/blob/1dd80de6261034711e1c6be4f9bfd63f84ca85ed/img1.png)
